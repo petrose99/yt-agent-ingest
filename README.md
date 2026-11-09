@@ -3,6 +3,7 @@
 Turn a YouTube talk into a **machine-consumable media pack**: full caption transcript, polished
 transcript, slide/frame graphics, the video itself, and a manifest an agent can navigate.
 
+**Live at:** https://github.com/petrose99/yt-agent-ingest
 Born from ingesting *"Make Your AI Agents Predictable With Graph Engineering — Zachary
 Blumenfeld, Neo4j"* (AI Engineer, `g_NgCLTibiM`) on 2026-11-09 — a day-old video behind four
 layers of bot protection. The method that survived:
