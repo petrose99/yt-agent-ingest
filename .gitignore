@@ -1,0 +1,6 @@
+out/
+pack*/
+*.log
+cookies.json
+cookiejar.txt
+check.txt

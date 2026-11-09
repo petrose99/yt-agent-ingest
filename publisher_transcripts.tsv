@@ -1,0 +1,5 @@
+[ Video	URL template
+AI Engineer	https://ai.engineer/talks/{id}-*
+AWS Developers	https://developer.aws/casts/{id}
+LangChain	https://blog.langchain.dev/{slug}
+Neo4j	https://neo4j.com/videos/{slug}
